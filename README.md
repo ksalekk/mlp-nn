@@ -30,7 +30,7 @@ For the structure given below and the learning rate of 0.4 the accuracy is ~0.75
 Example error functions in the learning process are given below.
 
 ### Network scheme
-![nn-scheme](./images/scheme.png)
+![nn-scheme](./images/nn-scheme.png)
 
 
 ### Example error functions
