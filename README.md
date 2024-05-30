@@ -36,7 +36,7 @@ Example error functions in the learning process are given below.
 ### Example error functions
 ![err1](./images/err1.png)
 
-![err2](./images/err1.png)
+![err2](./images/err2.png)
 
 
 
